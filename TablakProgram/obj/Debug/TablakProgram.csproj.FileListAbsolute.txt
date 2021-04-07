@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TablakProgram\TablakProgram\bin\Debug\TablakProgram.exe.config
+C:\Users\User\source\repos\TablakProgram\TablakProgram\bin\Debug\TablakProgram.exe
+C:\Users\User\source\repos\TablakProgram\TablakProgram\bin\Debug\TablakProgram.pdb
+C:\Users\User\source\repos\TablakProgram\TablakProgram\obj\Debug\TablakProgram.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TablakProgram\TablakProgram\obj\Debug\TablakProgram.Form1.resources
+C:\Users\User\source\repos\TablakProgram\TablakProgram\obj\Debug\TablakProgram.Properties.Resources.resources
+C:\Users\User\source\repos\TablakProgram\TablakProgram\obj\Debug\TablakProgram.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TablakProgram\TablakProgram\obj\Debug\TablakProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TablakProgram\TablakProgram\obj\Debug\TablakProgram.exe
+C:\Users\User\source\repos\TablakProgram\TablakProgram\obj\Debug\TablakProgram.pdb
